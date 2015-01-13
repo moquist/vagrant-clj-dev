@@ -16,3 +16,7 @@
 1. ```emacs src/path/to/file.clj```
 1. Use your vim keybindings, thanks to [EVIL](https://gitorious.org/evil/pages/Home)!
 
+## FYI
+
+1. The image this uses is here: https://atlas.hashicorp.com/sincerely/boxes/trusty64
+1. That image clocks in at 1.3G, so expect the download to take some time.
