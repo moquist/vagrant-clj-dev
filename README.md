@@ -1,8 +1,8 @@
 # vagrant-clj-dev
 
 ## Dependencies
-1. vagrant
-2. virtualbox
+1. [vagrant](https://www.vagrantup.com/downloads)
+2. [virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
 ## Usage
 
