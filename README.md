@@ -3,6 +3,8 @@
 ## Dependencies
 1. [vagrant](https://www.vagrantup.com/downloads)
 2. [virtualbox](https://www.virtualbox.org/wiki/Downloads)
+3. [my public dotfiles](https://github.com/moquist/dotfiles.pub)
+ * Obviously most of the work has already been done here...
 
 ## Usage
 
